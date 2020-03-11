@@ -1,0 +1,3 @@
+# covid
+
+Covid charting macros
